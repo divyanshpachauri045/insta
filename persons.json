@@ -1,0 +1,34 @@
+{
+  "person": [
+    {
+      "name": "Shahid Kapoor",
+      "country": "India",
+      "image": "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg"
+    },
+    {
+      "name": "Tom Cruise",
+      "country": "United States",
+      "image": "http://microblogging.wingnity.com/JSONParsingTutorial/cruise.jpg"
+    },
+    {
+      "name": "Disha Patani",
+      "country": "United States",
+      "image": "http://microblogging.wingnity.com/JSONParsingTutorial/johnny.jpg"
+    },
+    {
+      "name": "Angelina Jolie",
+      "country": "United States",
+      "image": "http://microblogging.wingnity.com/JSONParsingTutorial/jolie.jpg"
+    },
+    {
+      "name": "Salman Khan",
+      "country": "India",
+      "image": "http://microblogging.wingnity.com/JSONParsingTutorial/tom.jpg"
+    },
+    {
+      "name": "Narendra Modi",
+      "country": "India",
+      "image": "http://microblogging.wingnity.com/JSONParsingTutorial/will.jpg"
+    }
+  ]
+}
